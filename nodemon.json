@@ -1,0 +1,5 @@
+{
+  "watch": ["src/server"],
+  "ext": "js",
+  "exec": "cross-env node -r dotenv/config src/server/server.js"
+}
